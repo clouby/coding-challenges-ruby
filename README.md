@@ -7,3 +7,5 @@ This is a repo about challenges that i have completed, the next challenges solve
 - Bool to Word 👏
 - Playing with Digits 👏
 - Vowel Count 👏
+- Detect Pangram 👏
+- Composition Array 👏
